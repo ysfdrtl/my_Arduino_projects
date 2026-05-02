@@ -1,5 +1,7 @@
 # 📊 İvmeölçer Hareketi İzleme - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [AccelerometerMotionTracker.ino](AccelerometerMotionTracker.ino)
+
 ## 📌 Genel Bilgi
 Bu proje MMA7660 3 eksenli ivmeölçer sensörü (accelerometer) kullanarak hareketi izlemektedir. I2C protokolü ile Arduino'ya bağlanır ve hızlandırma, hız, konum verilerini hesaplar.
 

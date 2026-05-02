@@ -1,5 +1,7 @@
 # 📺 LCD Hareketli Yazı Gösterimi - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [LCDScrollingDisplay.ino](LCDScrollingDisplay.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 16x2 LCD ekranda Türkçe metni kaydırarak gösterir. LiquidCrystal kütüphanesi kullanılarak paralel haberleşme ile Arduino'ya bağlanır. Basit hareket (scrolling) efekti oluşturulur.
 

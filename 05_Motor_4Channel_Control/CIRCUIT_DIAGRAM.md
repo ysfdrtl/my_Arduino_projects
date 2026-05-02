@@ -1,5 +1,7 @@
 # ⚙️ 4 Kanallı Motor Kontrol - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [Motor4ChannelControl.ino](Motor4ChannelControl.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 4 DC motoru (2 üst seviye, 2 alt seviye) L298N motor sürücü kullanarak kontrol etmektedir. Çok kanallı motor kontrolü ve test amaçlıdır.
 

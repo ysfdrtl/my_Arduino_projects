@@ -1,5 +1,7 @@
 # 💡 Rastgele LED Seçici - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [RandomLEDSelector.ino](RandomLEDSelector.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 5 LED'i ve 1 push-button'ı kullanmaktadır. Butona her basıldığında 5 LED arasından rastgele biri seçilerek yanar, diğerleri söndürülür. `random()` fonksiyonu örneğidir.
 

@@ -1,5 +1,7 @@
 # 🤖 Engel Algılama Robotu v1 - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [ObstacleAvoidanceBot_v1.ino](ObstacleAvoidanceBot_v1.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 1 ultrasonik sensör (ön), 2 DC motor, MMA7660 ivmeölçer ve L298N motor sürücüsü kullanmaktadır. Temel engel algılama ve kaçınma robotunun v1 versiyonudur.
 

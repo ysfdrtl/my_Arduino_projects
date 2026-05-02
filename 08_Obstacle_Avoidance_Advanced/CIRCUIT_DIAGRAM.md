@@ -1,5 +1,7 @@
 # 🤖 Engel Algılama Robotu (Gelişmiş - Yan Sensör Düzeltmesi) - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [ObstacleAvoidanceBot_Advanced.ino](ObstacleAvoidanceBot_Advanced.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 3 ultrasonik sensör (ön, sol, sağ), 2 DC motor ve L298N motor sürücüsü kullanmaktadır. Yan sensör düzeltmesi ile robot düz yolda kalmayı başarır. Önceki versiyonlardan daha gelişmiş engel kaçınma algoritmasına sahiptir.
 

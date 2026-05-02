@@ -1,5 +1,7 @@
 # 🤖 Engel Algılama Robotu v2 - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [ObstacleAvoidanceRobot.ino](ObstacleAvoidanceRobot.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 3 ultrasonik sensör (ön, sol, sağ), 2 DC motor, MMA7660 ivmeölçer ve L298N motor sürücüsü kullanmaktadır. Engelleri algılayarak onlardan kaçınan otonom bir robot yapısı.
 

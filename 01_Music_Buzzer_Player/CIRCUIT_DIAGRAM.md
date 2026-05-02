@@ -1,5 +1,7 @@
 # 🎵 Müzik/Buzzer Müzisyeni - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [MusicBuzzer_Manifesto.ino](MusicBuzzer_Manifesto.ino)
+
 ## 📌 Genel Bilgi
 Bu proje pasif bir buzzer kullanarak Arduino üzerinde müzik çalmaktadır. Buzzer, PIN 48 üzerinden kontrol edilir.
 

@@ -1,5 +1,7 @@
 # ⚙️ 2 Kanallı Motor Kontrol Testi - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [Motor2ChannelBasic.ino](Motor2ChannelBasic.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 2 DC motoru temel seviyede kontrol etmektedir. Motor hızı ve yönü basit olarak kontrol edilir.
 

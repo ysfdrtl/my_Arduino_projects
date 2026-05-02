@@ -1,5 +1,7 @@
 # 📡 Ultrasonik Sensör Testi - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [UltrasonicSensorTest.ino](UltrasonicSensorTest.ino)
+
 ## 📌 Genel Bilgi
 Bu proje HC-SR04 ultrasonik sensörü test etmek amacıyla yazılmış basit bir koddur. Sensör pulse gönderme mantığı doğru ancak ölçüm henüz programlanmamıştır. Bu dosya deneysel/tamamlanmamış bir projedir.
 

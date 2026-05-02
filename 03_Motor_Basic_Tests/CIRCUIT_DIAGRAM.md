@@ -1,5 +1,7 @@
 # ⚙️ Motor Temel Test - Bağlantı Şeması
 
+💻 **Kod Dosyası:** [MotorBasicTest.ino](MotorBasicTest.ino)
+
 ## 📌 Genel Bilgi
 Bu proje 2 DC motoru L298N motor sürücüsü aracılığıyla kontrol etmektedir. Motor hızı, yönü ve temel hareket testleri yapılır.
 
